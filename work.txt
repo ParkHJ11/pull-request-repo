@@ -1,10 +1,7 @@
 일
-two
-three
-four
-five
+2
+3
+4
+5
 6
 7
-eight
-9
-0
